@@ -2,7 +2,7 @@
 
 Como projeto final do bootcamp {reprograma}, essa API tem como proposta resolver um problema real de pessoas com alguma limitação e pessoas que querem ajudar (voluntários) em tarefas do dia a dia. 
 
-### Instalação :woman_technologist:
+### Instalação 
 
 Para utilizar essa API, é necessário ter instalado na sua máquina 
 
